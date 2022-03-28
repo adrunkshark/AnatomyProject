@@ -1,2 +1,0 @@
-# AnatomyProject
-Anatomy Project
